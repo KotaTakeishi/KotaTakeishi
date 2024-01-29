@@ -22,7 +22,7 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,jquery)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,redux,jquery,bootstrap,tailwindcss,)](https://skillicons.dev)
 
 ### Backend
 
