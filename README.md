@@ -1,5 +1,16 @@
 # Hi there, I'm Kota Takeishi 👋
 
+<p align="left">
+  <a href="https://github.com/KotaTakeishi">
+    <img height="25" src="https://komarev.com/ghpvc/?username=KotaTakeishi" alt="KotaTakeishi" />
+  </a>
+  <a href="https://github.com/KotaTakeishi">
+    <img height="25" src="https://img.shields.io/github/followers/KotaTakeishi?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+### I'm a student at Kyushu University.
+
 ## Stats
 
 <p align="left"> 
