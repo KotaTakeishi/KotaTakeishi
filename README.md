@@ -14,7 +14,7 @@
 ## Stats
 
 <p align="left">
-  <img height="150px" src="https://github-readme-stats-kotatakeishi.vercel.app/api/top-langs/?username=KotaTakeishi&layout=compact&theme=midnight-purple&hide=html,css,scss&count_private=true" alt="Top Langs" />
+  <img height="150px" src="https://github-readme-stats-kotatakeishi.vercel.app/api/top-langs/?username=KotaTakeishi&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats&hide=html,css,scss&count_private=true" alt="Top Langs" />
   <img height="150px" src="https://github-readme-stats-kotatakeishi.vercel.app/api?username=KotaTakeishi&show_icons=true&theme=midnight-purple&count_private=true" alt="github stats" />
 </p>
 
