@@ -28,6 +28,6 @@
 
 [![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,flask,fastapi)](https://skillicons.dev)
 
-### Others
+### Other Skills
 
-[![Backend](https://skillicons.dev/icons?i=git,github,docker,aws,gcp,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=git,github,docker,aws,firebase)](https://skillicons.dev)
