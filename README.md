@@ -9,7 +9,7 @@
   </a>
 </p>
 
-### I'm a student at Kyushu University.
+### I'm a student at Kyushu University and belong to [LIMU](https://limu.ait.kyushu-u.ac.jp/).
 
 ## Stats
 
