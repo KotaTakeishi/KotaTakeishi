@@ -30,4 +30,4 @@
 
 ### Other Skills
 
-[![Backend](https://skillicons.dev/icons?i=git,github,docker,aws,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,firebase)](https://skillicons.dev)
