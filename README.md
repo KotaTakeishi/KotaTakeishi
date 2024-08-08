@@ -26,7 +26,7 @@
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,flask,fastapi)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=golang,php,laravel,nodejs,express,python,django,flask,fastapi)](https://skillicons.dev)
 
 ### Other Skills
 
