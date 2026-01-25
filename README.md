@@ -14,8 +14,8 @@
 ## Stats
 
 <p align="left">
-  <img height="150px" src="https://github-readme-stats-git-master-kotatakeishis-projects.vercel.app/api/top-langs/?username=KotaTakeishi&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats&hide=html,css,scss,jupyter%20notebook&count_private=true" alt="Top Langs" />
-  <img height="150px" src="https://github-readme-stats-git-master-kotatakeishis-projects.vercel.app/api?username=KotaTakeishi&show_icons=true&theme=midnight-purple&count_private=true" alt="github stats" />
+  <img height="150px" src="./profile/top-langs.svg" alt="Top Langs" />
+  <img height="150px" src="./profile/stats.svg" alt="github stats" />
 </p>
 
 ## Skills
