@@ -11,6 +11,14 @@
 
 ### I'm a student at Kyushu University and belong to [LIMU](https://limu.ait.kyushu-u.ac.jp/).
 
+## Portfolio
+
+<p align="left">
+  <a href="https://k-takeishi.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
 ## Stats
 
 <p align="left">
